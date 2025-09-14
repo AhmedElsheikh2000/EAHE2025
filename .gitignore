@@ -21,3 +21,6 @@ key.properties
 
 # Other
 pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
